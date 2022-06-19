@@ -1,3 +1,4 @@
+# Try to print a prime number in between 1 to 1000
 def is_prime_number(num: int):
     '''Validate whether give number is prime or not!'''
     m = num // 2 + 1

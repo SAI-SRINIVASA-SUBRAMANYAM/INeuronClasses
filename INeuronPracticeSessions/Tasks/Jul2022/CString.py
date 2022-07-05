@@ -17,9 +17,6 @@ class String:
     def __add__(self, other):
         return self.text + other.text
 
-    def ____(self):
-        return self.text
-
     def len(self):
         """
         Return the length of a string.\n

@@ -1,0 +1,25 @@
+Tasks:
+    A. String:
+        i. Write a function which takes string and returns the length of the string
+        ii. Reverse the string without reverse method
+        iii. Read the string and convert to upper/lower/capitalize case
+        iv. Write a lambda function that concatenate two strings passed
+    B. List:
+        i. Take dictionary as argument and return list as an argument
+        ii. Concatenate multiple lists into a single list(i.e., source)
+        iii. From a given list of heterogeneous list of entries extract only list types
+        iv. Try to filter all the string data
+        v. Try to extract alpha numeric data
+        vi. Get multiplication of all the numeric values from collection
+        vii. Unwrap collection inside a collection and create a flat list
+        viii. Replicate the list methods append, extend, pop
+        ix. Lambda function to return squares of given list
+    C. Dictionary:
+        i. From a given list of heterogeneous list of entries extract only dict types
+        ii. Try to extract all the numerical data it may be a part of dict key or value
+        iii. Get number of keys from dictionary element
+    D. Tuple:
+        i. From a given list of heterogeneous list of entries extract only tuple types
+    E. Sets:
+        i. From a given list of heterogeneous list of entries extract only tuple types
+    E. Replica of print function

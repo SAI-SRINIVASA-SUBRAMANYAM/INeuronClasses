@@ -5,10 +5,10 @@ Tasks:
         * Read the string and convert to upper/lower/capitalize case
         * Write a lambda function that concatenate two strings passed
     B. List:
-        * Concatenate multiple lists into a single list(i.e., source)
+        * Concatenate multiple lists into a single list.
         * From a given list of heterogeneous list of entries extract only list types
         * Try to filter all the string data
-        * Try to extract alpha numeric data
+        * Try to extract alphanumeric data
         * Get multiplication of all the numeric values from collection
         * Unwrap collection inside a collection and create a flat list
         * Replicate the list methods append, extend, pop

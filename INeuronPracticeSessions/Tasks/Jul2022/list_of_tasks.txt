@@ -12,13 +12,10 @@ Tasks:
         * Get multiplication of all the numeric values from collection
         * Unwrap collection inside a collection and create a flat list
         * Replicate the list methods append, extend, pop
-        * Lambda function to return squares of given list
     C. Dictionary:
-        * Take dictionary as argument and return list as an argument
-        * From a given list of heterogeneous list of entries extract only dict types
         * Try to extract all the numerical data it may be a part of dict key or value
         * Get number of keys from dictionary element
     D. Tuple:
-        * From a given list of heterogeneous list of entries extract only tuple types
+        * From a given list of heterogeneous tuples of entries extract only string types
     E. Sets:
-        * From a given list of heterogeneous list of entries extract only tuple types
+        * From a given list of heterogeneous set of entries extract only string types

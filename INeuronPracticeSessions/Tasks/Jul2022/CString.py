@@ -6,7 +6,7 @@ from CustomLogging import Logger
 class String:
     __required_type = custom_definition(str)
 
-    def __init__(self, text: str):
+    def __init__(self, text: str = ""):
         """
         Validate the given string and declare.\n
         :param text: string
